@@ -1,0 +1,9 @@
+.python-version
+.idea/
+__pycache__/
+.pytest_cache/
+*.iml
+venv/*
+notifier/node_modules
+mambanegra/models/model.pkl
+local_catalog.yaml

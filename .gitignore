@@ -1,9 +1,14 @@
 .python-version
+*.Python
 .idea/
 __pycache__/
 .pytest_cache/
 *.iml
 venv/*
+cass*
+cass/lib*
 notifier/node_modules
+mambanegra/bin*
+mambanegra/lib*
 mambanegra/models/model.pkl
 local_catalog.yaml
